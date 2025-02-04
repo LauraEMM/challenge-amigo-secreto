@@ -12,7 +12,7 @@ Este proyecto implementa un sorteo de amigo secreto utilizando HTML, CSS y JavaS
 
 ## Instrucciones de uso
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/nombre-de-tu-repositorio.git`
+1. Clona este repositorio: `git clone https://github.com/LauraEMM/challenge-amigo-secreto.git`
 2. Abre el archivo `index.html` en tu navegador.
 3. Ingresa los nombres de los participantes en el campo correspondiente y haz clic en "Agregar".
 4. Haz clic en "Sortear" para realizar el sorteo.
